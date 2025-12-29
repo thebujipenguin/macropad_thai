@@ -14,7 +14,7 @@ CAD
 
 PCB and Schematic were done in KiCAD
 3D model was done in fusion 360
-I decided to not have a top case for style reasons, and definitely not because I got pissed off that my measurements were not working. Either way it would look cool to me.
+i finally added the top case
 
 # BOM
 - 12x Cherry MX Switches
@@ -26,7 +26,4 @@ I decided to not have a top case for style reasons, and definitely not because I
 - 1x Case
 
 # some other stuff
-uh so the qmk was a nightmare to figure out, but i did it
-also i now hate 3d modeling even though this is my first time doing it
-i pray this goes through first try since im leaving the country soon
-AHHHHHH
+yo i had to finish this up in another country TT why'd you have to do this to me
